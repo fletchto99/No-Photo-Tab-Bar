@@ -1,0 +1,9 @@
+Package: me.matt.nophototabs
+Name: NoPhotoTabBar
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Removes the tab bar in the bottom of Photos.app
+Maintainer: Fletch to 99 <fletchto99@gmail.com>
+Author: Fletch to 99 <fletchto99@gmail.com>
+Section: Tweaks
